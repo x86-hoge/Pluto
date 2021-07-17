@@ -1,0 +1,9 @@
+[package]
+name = "pluto"
+version = "0.1.0"
+authors = ["hoge <k018c1134@it-neec.jp>"]
+edition = "2018"
+
+[dependencies]
+register = "0.1.1"
+linked_list_allocator = "0.6.5"
